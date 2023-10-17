@@ -57,6 +57,12 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+# Car Dealership
+
+Populate DB
+```sh
+curl 'http://localhost:3000/cars'
+```
 
 ## Support
 
